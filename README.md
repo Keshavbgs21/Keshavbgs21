@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keshavbgs21
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DBMS
+- 🌱 I’m a Software Developer
 - 💞️ I’m looking to collaborate on code
 - 📫 Reach me on Instagram keshavbgs21
 
