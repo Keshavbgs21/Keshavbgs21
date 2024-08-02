@@ -1,6 +1,6 @@
 -  Hi, I’m @Keshavbgs21
 -  I’m interested in Coding
--  I’m a Software Developer
+-  I’m a Frontend Developer
 -  I’m looking to collaborate on code
 
 
